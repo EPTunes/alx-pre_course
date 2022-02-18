@@ -1,1 +1,1 @@
-My first read me
+second read me in this alx-pre_course repo
